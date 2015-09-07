@@ -1,0 +1,29 @@
+{
+  "name": "e2-cli",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/willosof/node-e2-cli.git"
+  },
+  "keywords": [
+    "barco",
+    "folsom",
+    "switcher",
+    "e2",
+    "encore",
+    "cli",
+    "api",
+    "test"
+  ],
+  "author": "William Viker <william.viker@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willosof/node-e2-cli/issues"
+  },
+  "homepage": "https://github.com/willosof/node-e2-cli"
+}
