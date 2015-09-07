@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/willosof/node-e2-cli/issues"
   },
-  "homepage": "https://github.com/willosof/node-e2-cli"
+  "homepage": "https://github.com/willosof/node-e2-cli",
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
 }
